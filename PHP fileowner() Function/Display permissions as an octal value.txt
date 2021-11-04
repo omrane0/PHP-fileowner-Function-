@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo substr(sprintf("%o", fileperms("test.txt")),-4);
+?>
+
+</body>
+</html>
+
+
+
+
+
+
+
+0644

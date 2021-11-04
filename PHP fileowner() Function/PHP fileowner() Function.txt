@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo fileowner("test.txt");
+?>
+
+</body>
+</html>
+
+
+
+
+0

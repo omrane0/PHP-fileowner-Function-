@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo fileperms("test.txt");
+?>
+
+</body>
+</html>
+
+
+
+
+33188
